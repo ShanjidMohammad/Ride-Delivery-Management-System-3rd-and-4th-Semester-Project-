@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/image1">
+        <file>1.png</file>
+    </qresource>
+    <qresource prefix="/Image2">
+        <file>3.png</file>
+    </qresource>
+    <qresource prefix="/image3">
+        <file>2.png</file>
+    </qresource>
+    <qresource prefix="/image4">
+        <file>4.png</file>
+    </qresource>
+    <qresource prefix="/image5">
+        <file>5.png</file>
+    </qresource>
+    <qresource prefix="/image6">
+        <file>6.png</file>
+    </qresource>
+    <qresource prefix="/image7">
+        <file>7.png</file>
+    </qresource>
+    <qresource prefix="/image8">
+        <file>8.png</file>
+    </qresource>
+    <qresource prefix="/image9">
+        <file>9.png</file>
+    </qresource>
+    <qresource prefix="/image10">
+        <file>10.png</file>
+    </qresource>
+    <qresource prefix="/image11">
+        <file>11.png</file>
+    </qresource>
+    <qresource prefix="/image12">
+        <file>12.png</file>
+    </qresource>
+</RCC>
